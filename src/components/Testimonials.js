@@ -1,0 +1,1 @@
+import React from 'react'; function Testimonials(){return <section>Testimonials Section</section>} export default Testimonials;
